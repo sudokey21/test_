@@ -1,4 +1,4 @@
 <?PHP
 
-	echo "my master!!!";
+	echo "my !!!";
 ?>
