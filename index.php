@@ -1,5 +1,4 @@
 <?PHP
 
-	echo "my king!!!";
-	echo "my !!!";
+	echo "my world is on ice";
 ?>
